@@ -1,6 +1,10 @@
-title: Minimal theme
+title: 一繁电子商务
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: 专注于电商与网络技术.
+owner_name: 一繁电子商务有限公司
+owner_url: https://holihigh.github.io/theones/
+show_copyright: true
+years: 2021
+# show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
