@@ -2,41 +2,54 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+# 走进公司
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+一繁创立于2020年，是一家年轻的，专注于F2C电子商务公司
 
-## Header 2
+## 公司介绍
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* 中山市一繁电子商务有限公司成立于2020年，总部位于广东中山，是国内最优秀的跨境电商企业之一。
+* 公司专注于F2C(工厂-客户)电子商务模式，以中国珠三角产业优势，助力广大产业链工厂，在新互联网时代继往开来！
+* 目前公司经营产品涵盖厨房五金、母婴玩具、家居百货等数十种品类，同时拥有多个自有品牌。
 
-### Header 3
+* * *
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 企业文化
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### 企业愿景
 
+> 赋能中山市及珠三角生产链
+
+### 企业使命
+
+> 为终端消费者把好品质的关
+
+### 企业价值观
+
+> 1. 友爱互助
+> 2. 效率至上
+> 3. 诚信第一
+> 4. 勇于承担
+> 5. 国际视野
+
+### 工作理念
+
+> * 把职业当事业
+> * 把品质当生命
+> * 尊重每一个人
+> * 越努力越优秀
+
+* * *
+
+<!-- * * *
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -52,7 +65,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -120,4 +133,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
